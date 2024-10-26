@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/eaf6c654-4d70-4b5c-aadc-51cf0c51632a
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
-- Insert your bot_token and chat_id in the [`.env file`](https://github.com/mouricedevs/tg-contact-form/blob/main/.env) on your forked repo or manually in heroku vars or any other platform before deploying.
+- Insert your bot_token and chat_id in the [`.env file`](https://github.com/Tohidkhan6332/tg-contact-form/blob/main/.evn) on your forked repo or manually in heroku vars or any other platform before deploying.
 
 - [`VERCEL(free)`](https://vercel.com/login)
 - [`RENDER(free)`](https://dashboard.render.com)
