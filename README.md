@@ -1,5 +1,5 @@
 ### Simple Contact Form on Production
-- By [Gifted Tech](https://github.com/Tohidkhan6332)
+- By [Tohid Khan](https://github.com/Tohidkhan6332)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
