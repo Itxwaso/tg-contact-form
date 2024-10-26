@@ -117,7 +117,7 @@ VERCEL PROCESS:
 </details>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 5. please me
+### 5. follow me
 
 <p align="left">
 <a href="https://twitter.com/tohidkh31662231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidkh31662231" height="30" width="40" /></a>
