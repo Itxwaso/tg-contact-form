@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/eaf6c654-4d70-4b5c-aadc-51cf0c51632a
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
 
-- Insert your bot_token and chat_id in the [`.env file`](https://github.com/Tohidkhan6332/tg-contact-form/blob/main/.evn) on your forked repo or manually in heroku vars or any other platform before deploying.
+- Insert your bot_token and chat_id in the [`.env file`](https://github.com/Tohidkhan6332/tg-contact-form/blob/main/.env) on your forked repo or manually in heroku vars or any other platform before deploying.
 
 - [`VERCEL(free)`](https://vercel.com/login)
 - [`RENDER(free)`](https://dashboard.render.com)
@@ -83,11 +83,11 @@ VERCEL PROCESS:
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-***Here's an Example [`VERCEL OUTPUT`](https://api.giftedtech.us.kg/contact).***
+***Here's an Example [`VERCEL OUTPUT`](https://tg-contact-form.vercel.app/).***
 
-***Here's an Example [`HEROKU OUTPUT`](https://api.giftedtech.us.kg/contact).***
+***Here's an Example [`HEROKU OUTPUT`](https://tg-contact-form.vercel.app/).***
 
-***Here's an Example [`RENDER OUTPUT`](https://api.giftedtech.us.kg/contact).***
+***Here's an Example [`RENDER OUTPUT`](https://tg-contact-form.vercel.app/).***
 
 
 </details>
@@ -98,7 +98,7 @@ VERCEL PROCESS:
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://api.giftedtech.us.kg/contact) For More Info**
+- **[CONTACT SUPPORT](https://github.com/Tohidkhan6332/TOHID-INFO) For More Info**
 - **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T) for Daily Updates.**
 - **Check out my [GITHUB PROFILE](https://github.com/Tohidkhan6332) for more Projects.**
 </details>
