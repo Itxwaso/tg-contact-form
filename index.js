@@ -1,4 +1,4 @@
-// GIFTED TECH //
+// TOHID KHAN //
 
 const express = require('express');
 const path = require("path");
@@ -56,4 +56,4 @@ app.listen(PORT, () => {
 
 module.exports = app;
 
-// GIFTED TECH //
+// TOHID KHAN //
