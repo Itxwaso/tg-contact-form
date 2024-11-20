@@ -1,7 +1,7 @@
 {
   "name": "tg-contact-form@v1.0.0",
   "description": "Simple Contact Form Submitted via Telegram Bot",
-  "website": "https://contact-gifted-tech.vercel.app",
+  "website": "https://tg-contact-form.vercel.app/",
   "repository": "https://github.com/Tohidkhan6332/tg-contact-form",
   "logo": "https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg",
   "keywords": ["tohid-tech", "tohidtech", "contact-form"],
